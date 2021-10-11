@@ -1,5 +1,4 @@
 % Shamsulhaq Basir
-% HW #8
 clear ;  close  ; clc
 LW = 'linewidth'; FS = 'fontsize'; IN = 'interpret'; LT = 'latex';
 %% ------------- Space-Time Domains -----------
